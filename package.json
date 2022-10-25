@@ -1,0 +1,24 @@
+{
+  "name": "node_ts",
+  "version": "1.0.0",
+  "description": "Build node app with typescript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlazyg/node_ts.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Noor Salim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrlazyg/node_ts/issues"
+  },
+  "homepage": "https://github.com/mrlazyg/node_ts#readme",
+  "dependencies": {}
+}
