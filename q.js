@@ -1,4 +1,4 @@
-/* let str = 'abbbcdeffffffffghhhhhh';
+let str = 'abbbcdeffffffffghhhhhh';
 let start = 0;
 let map = new Map();
 let maxLength = 0;
@@ -16,7 +16,7 @@ for (curIndex = 0; curIndex < str.length; curIndex++) {
   map.set(str[curIndex], curIndex);
 }
 console.log(newString);
-*/
+
 
 /* let arr1 = [1, 2, 3];
 let arr2 = [...arr1];
